@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-state-management/static/css/main.de6e4ed5.css",
+    "main.js": "/react-state-management/static/js/main.d2d32193.js",
+    "index.html": "/react-state-management/index.html",
+    "main.de6e4ed5.css.map": "/react-state-management/static/css/main.de6e4ed5.css.map",
+    "main.d2d32193.js.map": "/react-state-management/static/js/main.d2d32193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6e4ed5.css",
+    "static/js/main.d2d32193.js"
+  ]
+}
